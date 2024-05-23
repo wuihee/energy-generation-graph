@@ -13,6 +13,5 @@ API_KEY=YOUR_API_KEY
 
 ## Resources
 
-- Electricity Data
-- API
+- [Electricity Data & API](https://www.eia.gov/opendata/)
 - Fourier Series
