@@ -11,6 +11,12 @@ A graph of the best-fit equation of the energy generation in the United States.
 API_KEY=YOUR_API_KEY
 ```
 
+- Install dependencies with poetry:
+
+```bash
+poetry install
+```
+
 ## Resources
 
 - [Electricity Data & API](https://www.eia.gov/opendata/)
